@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-bank/static/css/main.e6c13ad2.css",
+    "main.js": "/e-bank/static/js/main.c834a644.js",
+    "static/js/453.728c6a59.chunk.js": "/e-bank/static/js/453.728c6a59.chunk.js",
+    "index.html": "/e-bank/index.html",
+    "main.e6c13ad2.css.map": "/e-bank/static/css/main.e6c13ad2.css.map",
+    "main.c834a644.js.map": "/e-bank/static/js/main.c834a644.js.map",
+    "453.728c6a59.chunk.js.map": "/e-bank/static/js/453.728c6a59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c834a644.js"
+  ]
+}
