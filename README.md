@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+## Disclaimer / Avertissement / إخلاء المسؤولية
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### English
 
-## Available Scripts
+This **e‑Bank Project** is an educational, open‑source demonstration designed to illustrate the inner workings of an electronic banking system. It is provided **free of charge** and for **learning purposes only**.
 
-In the project directory, you can run:
+- 🚫 **No Affiliation**  
+  This project is **not** affiliated with, endorsed by, or sponsored by the Bank of Morocco or any other banking or financial institution.
 
-### `npm start`
+- ❗ **No Warranty or Guarantee**  
+  While every effort has been made to ensure the accuracy of examples and simulations, this project carries **no guarantee** of correctness, reliability, or security. Use the code and data at your own risk.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔒 **No Real Transactions**  
+  This system does **not** connect to any live banking network. Under no circumstances should this code be used for processing real customer data, real money transfers, or any production banking operations.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- ⚠️ **Intellectual Property**  
+  All bank names, logos, and trademarks used here are the property of their respective owners and appear solely for illustrative purposes. Their inclusion does **not** imply partnership or endorsement.
 
-### `npm test`
+By using or forking this repository, you acknowledge that you have read this disclaimer and agree to assume full responsibility for any outcomes arising from your use of this project.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### Français
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Ce **projet e‑Bank** est une démonstration éducative et open‑source conçue pour illustrer le fonctionnement interne d’un système de banque électronique. Il est fourni **gratuitement** et **uniquement à des fins pédagogiques**.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 🚫 **Aucune Affiliation**  
+  Ce projet n’est **pas** affilié, approuvé ou sponsorisé par la Banque du Maroc ni par aucune autre institution bancaire ou financière.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ❗ **Aucune Garantie**  
+  Bien que tous les efforts aient été faits pour garantir l’exactitude des exemples et des simulations, ce projet ne comporte **aucune garantie** de précision, de fiabilité ou de sécurité. Vous utilisez le code et les données à vos propres risques.
 
-### `npm run eject`
+- 🔒 **Aucune Transaction Réelle**  
+  Ce système ne se connecte **à aucun réseau bancaire réel**. En aucun cas ce code ne doit être utilisé pour traiter des données clients réelles, des transferts d’argent réels ou des opérations bancaires en production.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- ⚠️ **Propriété Intellectuelle**  
+  Tous les noms, logos et marques de banques utilisés ici sont la propriété de leurs détenteurs respectifs et sont utilisés uniquement à des fins d’illustration. Leur inclusion n’implique **pas** de partenariat ou d’approbation.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+En utilisant ou en forkant ce dépôt, vous reconnaissez avoir lu cet avertissement et acceptez d’assumer l’entière responsabilité des résultats découlant de l’utilisation de ce projet.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### العربية
 
-## Learn More
+هذا **مشروع البنك الإلكتروني** هو عرض تعليمي مفتوح المصدر مصمم لتوضيح كيفية عمل نظام مصرفي إلكتروني. يُقدَّم **مجانًا** و**لأغراض تعليمية فقط**.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- 🚫 **لا انتماء**  
+  هذا المشروع **ليس** تابعًا أو معتمدًا أو برعاية بنك المغرب أو أي مؤسسة مصرفية أو مالية أخرى.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- ❗ **لا ضمان**  
+  على الرغم من بذل كل جهد لضمان دقة الأمثلة والمحاكاة، فإن هذا المشروع **لا يقدم أي ضمان** بخصوص الصحة أو الموثوقية أو الأمان. استخدم الكود والبيانات على مسؤوليتك الخاصة.
 
-### Code Splitting
+- 🔒 **لا معاملات حقيقية**  
+  هذا النظام **لا يتصل بأي شبكة مصرفية حية**. ولا يجوز تحت أي ظرف من الظروف استخدام هذا الكود لمعالجة بيانات عملاء حقيقية أو تحويلات أموال حقيقية أو أي عمليات مصرفية في بيئة الإنتاج.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- ⚠️ **الملكية الفكرية**  
+  جميع أسماء البنوك والشعارات والعلامات التجارية المستخدمة هنا هي ملك لأصحابها وتُستخدم لأغراض توضيحية فقط. ولا يعني استخدامها وجود شراكة أو تأييد.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+باستخدامك أو عملك fork لهذا المستودع، فإنك تقرّ بأنك قرأت هذا الإخلاء وتوافق على تحمل المسؤولية الكاملة عن أي نتائج تنتج عن استخدامك لهذا المشروع.  
