@@ -5,8 +5,7 @@ import { Link } from 'react-router-dom';
 function Login({ onLogin }) {
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add your login logic here
-    onLogin(); // Call the login function passed from App.js
+    onLogin();
   };
 
   return (
